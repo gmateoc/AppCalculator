@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppCalculator</string>
+    <string name="unoBoton">1</string>
+    <string name="dosBoton">2</string>
+    <string name="tresBoton">3</string>
+    <string name="cuatroBoton">4</string>
+    <string name="cincoBoton">5</string>
+    <string name="seisBoton">6</string>
+    <string name="sieteBoton">7</string>
+    <string name="ochoBoton">8</string>
+    <string name="nueveBoton">9</string>
+    <string name="ceroBoton">0</string>
+    <string name="puntoBoton">.</string>
+    <string name="restarBoton">-</string>
+    <string name="multiplicarBoton">x</string>
+    <string name="sumarBoton">+</string>
+    <string name="dividirBoton">/</string>
+    <string name="clearBoton">CLEAR</string>
+    <string name="igualBoton">=</string>
+    <string name="ceroTextView">0</string>
+
+</resources>
